@@ -1,0 +1,1 @@
+(1,3915,2,["BBBBBBBBBBB","B___WWW___B","B_W_____W_B","B_________B","BW_WWGWW_WB","B__WGGGW__B","BW_WWWWW_WB","B_____M___B","BFFW____W_B","BPFFWWW___B","BBBBBBBBBBB"])

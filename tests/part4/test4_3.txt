@@ -1,0 +1,13 @@
+(1, 3910, 3,
+["BBBBBBBBBBB",
+"B__MWWWFFPB",
+"B_WFFFFFW_B",
+"B_G_______B",
+"BWGWW_WW_WB",
+"B_GW___W__B",
+"BWGWWWWW_WB",
+"B_________B",
+"B__W____W_B",
+"B___WWW___B",
+"BBBBBBBBBBB"],
+"DRRRRURRRDD")
