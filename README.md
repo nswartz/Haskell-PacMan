@@ -4,9 +4,9 @@ Primitive PacMan map parser coded in Haskell
 
 To run the program:
 
--> ghc --make .\csce322a2p*.hs
+> ghc --make .\csce322a2p*.hs
 
--> ./csce322a2p*.hs args
+> ./csce322a2p*.hs args
 
 where args is a correctly formatted map (included in tests).
 
@@ -19,5 +19,5 @@ if one lies directly (in the same row or column) between them and PacMan.
 
 Outside resources:
 
-http://learnyouahaskell.com/
-http://stackoverflow.com/
+- http://learnyouahaskell.com/
+- http://stackoverflow.com/
