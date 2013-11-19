@@ -5,6 +5,7 @@ Primitive PacMan map parser coded in Haskell
 To run the program:
 
 -> ghc --make .\csce322a2p*.hs
+
 -> ./csce322a2p*.hs args
 
 where args is a correctly formatted map (included in tests).
