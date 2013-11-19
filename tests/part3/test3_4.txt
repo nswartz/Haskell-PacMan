@@ -1,0 +1,11 @@
+["BBBBBBBBBBB",
+"B___WWW___B",
+"B_W_GGGMW_B",
+"B_________B",
+"BW_WW_WW_WB",
+"B__W___W__B",
+"BW_WWWWW_WB",
+"B____G____B",
+"B__W____W_B",
+"B___WWW___B",
+"BBBBBBBBBBB"]
